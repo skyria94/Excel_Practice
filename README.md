@@ -13,3 +13,9 @@ In this practical challenge i have answered the 5 following questions:
 4)Which region has the highest sales and which one has the lowest?
 
 5)What is the average profit margin of the store?
+
+## Boston Housing
+* What is the correlation between the number of rooms and the median value of owner-occupied homes?
+* Which variable has the highest correlation with the median value of owner-occupied homes?
+* What is the average age of the homes?
+* What is the distribution of the pupil-teacher ratio by town?
