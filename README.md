@@ -10,6 +10,7 @@ In this practical challenge i have answered the 5 following questions:
 * What is the average profit margin of the store?
 
 ## Boston Housing
+In this practical challenge i have answered the 4 following questions:
 * What is the correlation between the number of rooms and the median value of owner-occupied homes?
 * Which variable has the highest correlation with the median value of owner-occupied homes?
 * What is the average age of the homes?
